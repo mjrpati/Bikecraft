@@ -5,6 +5,10 @@ body{
 a{
   text-decoration: none;
 }
+img{
+  width: 100%;
+  display: block;
+}
 .header-bg{
   background-color: #000000;
 }
@@ -48,6 +52,7 @@ max-width: 1200px;
 }
 .header-menu a:hover:after{
   width: 100%;
+}
 @media (max-width: 800px){
   .header-menu{
     gap: 20px;
@@ -71,4 +76,3 @@ max-width: 1200px;
     font-size: 14px; 
     }
   }
-}
