@@ -1,0 +1,13 @@
+.font-1-xx1{
+  font-size: 64px;
+  line-height: 1.125; /*Valor absoluto*/
+  font-family: 'Poppins',sans-serif;
+  font-weight: 600;
+ }
+
+ .texto-medio{
+font-size: 24px;
+line-height: 1.5;
+font-family: 'Roboto', sans-serif ;
+font-weight: 400;
+ }
