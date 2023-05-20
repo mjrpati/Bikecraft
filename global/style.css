@@ -4,3 +4,5 @@
 @import "/global/utilidades/componentes.css";
 @import "/global/utilidades/cores.css";
 @import "./utilidades/tipografia.css";
+@import "/bicicletas/bicicletas-listas.css";
+@import "./home/tecnologia.css";

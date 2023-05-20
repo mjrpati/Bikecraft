@@ -8,15 +8,12 @@
   flex-wrap: wrap;
 }
 .header{
-display: flex;
-flex-wrap: wrap;
-box-sizing: border-box;
-padding: 20px;
-justify-content: space-between;
-align-items: center;
-margin-left: auto;
-margin-right: auto;
-max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .header-menu{
   display: flex;
@@ -26,15 +23,12 @@ max-width: 1200px;
 .header-menu a{
   display: inline-block;
   padding: 16px 0px;
-  font-size: 18px;
   position: relative;
-  font-family: 'Poppins';
-  font-weight: 400;
 }
 .header-menu a:after{
   content: "";
   display: block;
- background-color:var(--cor-0);
+  background-color:var(--cor-0);
   height: 2px;
   width: 0%;
   position: absolute;

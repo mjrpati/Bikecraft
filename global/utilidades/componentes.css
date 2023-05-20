@@ -1,3 +1,12 @@
+.container{
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right : 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .botao{
   display: inline-block;
   padding: 16px 32px;
@@ -14,9 +23,10 @@
 .botao:hover{
   background: linear-gradient(#ffb60d, #e59317);
 }
+
 @media (max-width: 600px){
   .botao{
     padding: 12px 16px;
-    font-size: 16px;
+    font-size: 1rem ;
   }
 }
