@@ -20,5 +20,22 @@
 }
 .tecnologia-conteudo > span{ /*Usamos display block pois span é inline por natureza*/
   margin-bottom: 20px;
-  display:  block;
+  display: block;
+}
+.tecnologia-conteudo h2{
+  margin-bottom: 32px;
+}
+.tecnologia-conteudo > p{ 
+  margin-bottom: 20px;
+}
+.tecnologia-conteudo > a{ 
+  margin-bottom: 80px;
+}
+.vantagens-tecnologia{
+  display: flex;
+  gap: 40px;
+}
+.tecnologia-vantagens h3{
+  margin-bottom: 8px;
+  width: max-content;
 }
