@@ -10,4 +10,8 @@
 @import './home/depoimento.css';
 @import './seguros/seguros.css';
 @import './footer.css';
-
+@import "./termos/termos.css";
+@import "/global/bicicletas.css";
+@import "/global/seguros.css";
+@import "/global/vantagens.css";
+@import "/global/seguros/perguntas.css";
