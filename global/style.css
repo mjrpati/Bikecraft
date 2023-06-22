@@ -15,3 +15,13 @@
 @import "/global/seguros.css";
 @import "/global/vantagens.css";
 @import "/global/seguros/perguntas.css";
+@import "./bicicleta/bicicleta.css";
+@import "../bicicletas/seguro.css";
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+@import "./utilidades/formulario.css";
+@import "../orcamento/orcamento.css";
+@import "../global/utilidades/";
+@import "../bicicletas/bicicletas-listas.css";
+
+
